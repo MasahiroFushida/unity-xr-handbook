@@ -28,20 +28,20 @@ Target DeviceをQuest3に設定してください。
 
 OpenXRのMeta XRの設定
 - Android
-![alt text](image.png)
+![alt text](/docs/handson/asset/setup/image.png)
 
 - Desktop
-![alt text](image-1.png)
+![alt text](/docs/handson/asset/setup/image-1.png)
 
 - Project Setup Tool でFix All
-![alt text](image-2.png)
+![alt text](/docs/handson/asset/setup/image-2.png)
 
 
 (Edit)-(Project Settings)-(Player)を開き、Player タブで以下の設定を行ってください。
 
 
-![alt text](image-4.png)
+![alt text](/docs/handson/asset/setup/image-4.png)
 
 
 Override Default Package Nameのチェックを外す
-![alt text](image-5.png)
+![alt text](/docs/handson/asset/setup/image-5.png)

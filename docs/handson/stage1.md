@@ -25,7 +25,7 @@ OVR Managerの設定
 - 検索エリア直下のSearch:からAllを選択
 - OVRInteractionComprehensiveをOVRCameraRigにドラッグ&ドロップで子要素として追加
 
-![alt text](asset/stage1/image.png){: width="200"}
+![alt text](asset/stage1/image.png){: width="200" style="display:block; margin:0;"}
 
 **ハンドトラッキングの設定**
 - Hierarchy内のOVRCameraRigを選択

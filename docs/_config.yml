@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-markdown: GFM
+markdown: kramdown
 title: Unity VR 手順書
 baseurl: /unity-xr-handbook

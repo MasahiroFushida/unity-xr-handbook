@@ -32,17 +32,17 @@ OVR Managerの設定
 - Inspector内のOVR Manager(Component)を確認
 - Hand Tracking SupportをControllers and Handsに設定
 
-![alt text](asset/stage1/image-1.png){: width="400" style="display:block; 
+![alt text](asset/stage1/image-1.png){: width="400" style="display:block; margin:0;"}
 
 
 **ControllerのRay表示**
 
 (OVRInteractionComprehensive)-(LeftInteractions)-(Interactors)-(Cntroller)-(ControllerRayInteractor)-(Visuals)-(ControllerRay)を選択
 
-![alt text](asset/stage1/image-2.png){: width="400" style="display:block; 
+![alt text](asset/stage1/image-2.png){: width="400" style="display:block; margin:0;"}
 Inspectorで**Controller Ray Visual**の**Hide WHen No Interactable**のチェックをOFFに設定
 
-![alt text](asset/stage1/image-3.png){: width="400" style="display:block; 
+![alt text](asset/stage1/image-3.png){: width="400" style="display:block; margin:0;"}
 
 
 # 3. Cubeの配置

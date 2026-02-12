@@ -25,24 +25,24 @@ OVR Managerの設定
 - 検索エリア直下のSearch:からAllを選択
 - OVRInteractionComprehensiveをOVRCameraRigにドラッグ&ドロップで子要素として追加
 
-![alt text](asset/stage1/image.png){: width="200" style="display:block; margin:0;"}
+![alt text](asset/stage1/image.png){: width="400" style="display:block; margin:0;"}
 
 **ハンドトラッキングの設定**
 - Hierarchy内のOVRCameraRigを選択
 - Inspector内のOVR Manager(Component)を確認
 - Hand Tracking SupportをControllers and Handsに設定
 
-![alt text](asset/stage1/image-1.png)
+![alt text](asset/stage1/image-1.png){: width="400" style="display:block; 
 
 
 **ControllerのRay表示**
 
 (OVRInteractionComprehensive)-(LeftInteractions)-(Interactors)-(Cntroller)-(ControllerRayInteractor)-(Visuals)-(ControllerRay)を選択
 
-![alt text](asset/stage1/image-2.png)
+![alt text](asset/stage1/image-2.png){: width="400" style="display:block; 
 Inspectorで**Controller Ray Visual**の**Hide WHen No Interactable**のチェックをOFFに設定
 
-![alt text](asset/stage1/image-3.png)
+![alt text](asset/stage1/image-3.png){: width="400" style="display:block; 
 
 
 # 3. Cubeの配置

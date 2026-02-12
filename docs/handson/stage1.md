@@ -24,22 +24,22 @@ OVR Managerの設定
 - Projectタブの検索エリアにOVRInteractionComprehensiveと入力
 - 検索エリア直下のSearch:からAllを選択
 - OVRInteractionComprehensiveをOVRCameraRigにドラッグ&ドロップで子要素として追加
-<img src="/docs/handson/asset/stage1/image.png" alt="alt text" width="400">
+<img src="/docs/handson/asset/stage1/image.png" alt="alt text" width="400" style="display:block; margin:0;">
 
 **ハンドトラッキングの設定**
 - Hierarchy内のOVRCameraRigを選択
 - Inspector内のOVR Manager(Component)を確認
 - Hand Tracking SupportをControllers and Handsに設定
 
-<img src="/docs/handson/asset/stage1/image-1.png" alt="alt text" width="400">
+<img src="/docs/handson/asset/stage1/image-1.png" alt="alt text" width="400" style="display:block; margin:0;">
 
 
 **ControllerのRay表示**
 
 (OVRInteractionComprehensive)-(LeftInteractions)-(Interactors)-(Cntroller)-(ControllerRayInteractor)-(Visuals)-(ControllerRay)を選択
-<img src="/docs/handson/asset/stage1/image-2.png" alt="alt text" width="400">
+<img src="/docs/handson/asset/stage1/image-2.png" alt="alt text" width="400" style="display:block; margin:0;">
 Inspectorで**Controller Ray Visual**の**Hide WHen No Interactable**のチェックをOFFに設定
-<img src="/docs/handson/asset/stage1/image-3.png" alt="alt text" width="400">
+<img src="/docs/handson/asset/stage1/image-3.png" alt="alt text" width="400" style="display:block; margin:0;">
 
 
 # 3. Cubeの配置
